@@ -80,9 +80,16 @@ li:hover {
   border-radius: 150px;
 }
 /* --------------------- */
-
-
 /* Second card */
+
+.avatar-entreprise{
+  border-radius:50%;
+}
+
+
+/* ------------------- */
+
+/* Third card */
 .list-inline{
   padding-left: 0;
 }
